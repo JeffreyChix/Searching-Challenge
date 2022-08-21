@@ -55,8 +55,8 @@ const findLongestString = (arrString) => {
 
 //////////////////////////////////////////
 
-const STRING = "3aabbacbaa";
+const STRING = "2aabbacbaa";
 
-const searchResult = SearchingChallenge("3aabbacbaa");
+const searchResult = SearchingChallenge(STRING);
 
 console.log(searchResult);
